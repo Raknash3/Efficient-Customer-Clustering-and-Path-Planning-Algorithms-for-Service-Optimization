@@ -1,2 +1,4 @@
 # Efficient-Customer-Clustering-and-Path-Planning-Algorithms-for-Service-Optimization
-This repository aims to optimize shared cab-ride experience by analyzing various algorithm that can be used for clustering customers into groups and then using an efficient path planning algorithm to decide the order in which the customers will be dropped
+This project was presented as the final project of my Algorithms graduate course. Tha aim of this project is to optimize shared cab-ride experience by using the most efficient clusterting and path planning algorithms. The clusterin algorithm will segregate the customers into separate clusters based on their distance from each other. Each cluster will have 10 customers. The path planning algorithm will provide the most efficient order in which the customers should be dropped so that the cab can take the shortest path from the base location and return back to base after dropping the last customer. 
+
+We have used random co-ordinates(lat and long) within Boston city to use in the program. A link to a youtube video explaining the project is provided in the repo.
